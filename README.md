@@ -45,8 +45,7 @@ The Bank Customer Churn Analysis project leverages Power BI to analyze customer 
 - Fact Table: `Fact_CustomerChurn`  
 - Dimension Tables: `Dim_AgeGroup`, `Dim_BalanceGroup`, `Dim_Geography`  
 - Established **Many-to-One relationships**  
-- Used surrogate keys for efficient joins  
-- Created DAX measures for churn analysis and KPIs  
+ 
 
 ---
 
